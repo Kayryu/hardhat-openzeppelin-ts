@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
+    "compile": "hardhat compile",
     "test": "mocha --exit --recursive"
   },
   "keywords": [],
